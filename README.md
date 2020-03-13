@@ -1,5 +1,4 @@
-# -
-记录人体生物节律相关知识
+# -记录人体生物节律相关知识
 #include<stdio.h>
 int Leap(int iNumber1,int iNumber2);
 int Day3(int iNumber1,int iNumber2,int iNumber3);
